@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Biodata_a11201810932</string>
+    <string name="textview">TextView</string>
+    <string name="biodata">Biodata</string>
+    <string name="nim_a11_2018_10932">NIM : A11.2018.10932</string>
+    <string name="nama">Nama : Naufal Aldy Pradana</string>
+    <string name="hobby">Hobby : Mempelajari hal baru</string>
+    <string name="deskripsi">Deskripsi Singkat :</string>
+    <string name="isideskripsi">Saya adalah seorang Mahasiswa Universitas Dian Nuswantoro yang pada tahun pembelajaran 2020/2021 ini telah memasuki semester ke-5.  Dan kali ini saya sedang menempuh pelajaran di matakuliah Pemrogaman Perangkat Bergerak</string>
+    <string name="todo">TODO</string>
+    <string name="alamat">Alamat</string>
+    <string name="telepon">Telepon</string>
+    <string name="e_mail">E-mail</string>
+
+</resources>
